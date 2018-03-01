@@ -10,6 +10,15 @@ Poem is the one of the best way to express eny emotion and ( we think ) the most
 
 ### Team:
 
-[Ahmet Hamza Emra](https://github.com/AhmetHamzaEmra)
+​		[Ahmet Hamza Emra](https://github.com/AhmetHamzaEmra)
 
-[Bedir Tapkan](https://github.com/BedirT)
+​		[Bedir Tapkan](https://github.com/BedirT)
+
+### <u>Warning</u>:
+
+**You can not use it more than once in every 5 min!**
+
+
+
+
+
