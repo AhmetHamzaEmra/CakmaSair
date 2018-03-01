@@ -43,8 +43,8 @@ def generate_poem(start_string):
 
 
 
-auth = tweepy.OAuthHandler('mHMtPMDHD9en407Z3jurtQmNW', 'KBnQnm9jwFi821P2NyPINzUdwTUN49yvAw32orKkReyJoWPYeQ')
-auth.set_access_token("754701211757080576-jkUfg07psMdV2uoLBlyRWE2HplCl4j6", "V4faYfWvZZJtN4kmNyEq1cyJr02z4cbySBgPmjpV38trm")
+auth = tweepy.OAuthHandler('XXXXXXXXXXXXXXXXXX', 'XXXXXXXXXXXXXXXXXXXXXXXX')
+auth.set_access_token("XXXXXXXXXXXX-XXXXXXXXXXXX", "XXXXXXXXXXXXXXXXXXXXXXXX")
 api = tweepy.API(auth)
 
 mentions = api.mentions_timeline()
