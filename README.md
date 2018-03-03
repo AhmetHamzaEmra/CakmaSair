@@ -1,5 +1,5 @@
 # **[Cakma Sair](https://twitter.com/Cakma_Sair)**
-Poem is the one of the best way to express eny emotion and ( we think ) the most beautiful way to use language. Ergo, we built a Twitter Bot which can compleate poem after giving the first couple words. We use recurrent neural network and tweepy framework for this project. It was easier for us to do it in Turkish but Engish version is also coming soon. 
+Poem is the one of the best way to express any emotion, and (we think) the most beautiful way to use the language. Ergo, we built a Twitter Bot which can complete the poem after inputting first couple words. We use recurrent neural network and tweepy framework for this project. It was easier for us to do it in Turkish but Engish version is coming soon. It is not perfect yet, but we have some problem with computational power, so it will get better and better.
 
 ## Try it out! 
 
